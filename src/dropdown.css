@@ -1,0 +1,16 @@
+.dropdown-data-hide{
+    display: none;
+}
+.dropdown-data-show{
+    display: block;
+    list-style: none;
+    border: 1px solid grey;
+    width: 158px;
+    margin-top: 0;
+}
+.cancelButton{
+    height: 20px;
+    margin-top: 19px;
+    margin-left: 4px;
+}
+
